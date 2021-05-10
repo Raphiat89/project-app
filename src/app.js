@@ -38,7 +38,7 @@ function formatDate(timestamp) {
 }
 
 
- celsiusTemperature = response.data.main.temp;   
+
     
 
 function search(city) {
